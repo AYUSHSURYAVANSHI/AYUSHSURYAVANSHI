@@ -141,7 +141,7 @@
         </a>
             <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fB9syGVCXVhJM-PN.gif" alt="" height="400" width="100%"/>
 
-            ![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
+            ![trophy](https://github-profile-trophy.vercel.app/?username=AYUSHSURYAVANSHI)
         <!-- <a href="#"><img alt="Windows" src="">
         </a>
         <a href="#"><img alt="Windows" src="">
@@ -206,7 +206,7 @@
    
     <!-- <p align="right"> <img src=https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI alt=AYUSHSURYAVANSHI /></p> -->
     <br/>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AYUSHSURYAVANSHI" alt="GitHub Streak" /></a>
     <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5) -->
 
     <!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=AYUSHSURYAVANSHI)  
