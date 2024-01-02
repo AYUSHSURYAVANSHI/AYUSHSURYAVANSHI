@@ -206,8 +206,8 @@
    
     <!-- <p align="right"> <img src=https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI alt=AYUSHSURYAVANSHI /></p> -->
     <br/>
-    
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+    <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5) -->
 
     <!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=AYUSHSURYAVANSHI)  
         
@@ -216,5 +216,7 @@
     <h3  align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=AYUSHSURYAVANSHI">
     <img src="https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI"></h3>
     </div>
-#   A Y U S H S U R Y A V A N S H I  
+    
+
+    #   A Y U S H S U R Y A V A N S H I  
  
