@@ -176,8 +176,8 @@
     </br>
     
    <div align="center">
-    <a href="https://github.com/AYUSHSURYAVANSHI"> <img align="left"  width=49%
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHSURYAVANSHI&layout=compact" />
+    <!-- <a href="https://github.com/AYUSHSURYAVANSHI"> <img align="left"  width=49%
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHSURYAVANSHI&layout=compact" /> -->
 
     <a href="https://github.com/AYUSHSURYAVANSHI"> <img align="left"  width=30.4%
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHSURYAVANSHI" />
@@ -200,7 +200,7 @@
     src=
     />
    
-    <p align="right"> <img src=https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI alt=AYUSHSURYAVANSHI /></p>
+    <!-- <p align="right"> <img src=https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI alt=AYUSHSURYAVANSHI /></p> -->
     <br/>
         
     ![GitHub streak stats](https://streak-stats.demolab.com/?user=AYUSHSURYAVANSHI)  
