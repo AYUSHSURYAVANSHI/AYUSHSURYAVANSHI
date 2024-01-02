@@ -1,6 +1,7 @@
 <div align="center">
-    <img width=100% height=300px
-    src="https://i.ibb.co/pL481f0/code.gif"
+    <img width=100% height=450px
+    src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1709769600&v=beta&t=waGPZV3_JOyDmjtA8m_ugJRDO0wrbvcKOcwSj1mYvr8"
+    
     />
     
     </div>
@@ -8,7 +9,7 @@
         
      <h1>Hello World 🌏,       I'm <a href="https://linkedin.com/in/ayush-suryavanshi-b05b69228"> Ayush Suryavanshi </a></h1>
      </div>
-    <!-- <img align="center" src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/10/Legible-Code-1.png" alt="" height="300" width="100%"/> -->
+    <!-- <img align="center" src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif" alt="" height="300" width="100%"/> -->
     <b>A passionate Data Science Engineer and Frontend Developer 🚀 having an experience and knowledge of building Data Science and Frontend projects. I do content on development and I really enjoy learning languages</b> 
     <a href=" " target="_blank">
     <!--         <img align="right" alt="  " width="200" height="370"
@@ -138,6 +139,9 @@
         </a>
         <a href="#"><img alt="Windows" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
         </a>
+            <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fB9syGVCXVhJM-PN.gif" alt="" height="400" width="100%"/>
+
+            ![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
         <!-- <a href="#"><img alt="Windows" src="">
         </a>
         <a href="#"><img alt="Windows" src="">
@@ -202,13 +206,17 @@
    
     <!-- <p align="right"> <img src=https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI alt=AYUSHSURYAVANSHI /></p> -->
     <br/>
+    
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kattni&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+
+    <!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=AYUSHSURYAVANSHI)  
         
-    ![GitHub streak stats](https://streak-stats.demolab.com/?user=AYUSHSURYAVANSHI)  
-        
-    ![](https://github.com/AYUSHSURYAVANSHI/AYUSHSURYAVANSHI/blob/main/github-contribution-grid-snake.gif)
+    ![](https://github.com/AYUSHSURYAVANSHI/AYUSHSURYAVANSHI/blob/main/github-contribution-grid-snake.gif) -->
         
     <h3  align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=AYUSHSURYAVANSHI">
     <img src="https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI"></h3>
     </div>
-</s>#   A Y U S H S U R Y A V A N S H I  
+    
+
+    #   A Y U S H S U R Y A V A N S H I  
  
