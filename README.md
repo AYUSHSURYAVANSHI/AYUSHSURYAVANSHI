@@ -196,13 +196,12 @@
     </br>
     <div align="center">
     <a href="https://github.com/AYUSHSURYAVANSHI"> <img align="center" width=60%
-     
     </div>                                                    
     
-    <div align="center">
+    <!-- <div align="center">
     <img width=100% height=50px
-    src=
-    />
+    src= -->
+    <!-- /> -->
    
     <!-- <p align="right"> <img src=https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI alt=AYUSHSURYAVANSHI /></p> -->
     <br/>
