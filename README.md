@@ -141,7 +141,6 @@
         </a>
             <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fB9syGVCXVhJM-PN.gif" alt="" height="400" width="100%"/>
 
-            ![](https://github-profile-trophy.vercel.app/?username=AYUSHSURYAVANSHI)
         <!-- <a href="#"><img alt="Windows" src="">
         </a>
         <a href="#"><img alt="Windows" src="">
