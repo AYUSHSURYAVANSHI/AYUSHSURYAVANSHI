@@ -141,7 +141,6 @@
         </a>
             <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fB9syGVCXVhJM-PN.gif" alt="" height="400" width="100%"/>
 
-            ![trophy](https://github-profile-trophy.vercel.app/?username=AYUSHSURYAVANSHI)
         <!-- <a href="#"><img alt="Windows" src="">
         </a>
         <a href="#"><img alt="Windows" src="">
@@ -217,6 +216,7 @@
     </div>
     
 
+<<<<<<< HEAD
     #   A Y U S H S U R Y A V A N S H I  
  #   A Y U S H S U R Y A V A N S H I  
  #   A Y U S H S U R Y A V A N S H I  
@@ -224,4 +224,9 @@
  #   A Y U S H S U R Y A V A N S H I  
  #   A Y U S H S U R Y A V A N S H I  
  #   A Y U S H S U R Y A V A N S H I  
+ 
+=======
+  
+>>>>>>> d94cfda69c2c0a1d943fa67e897694f39d6b5bc2
+#   A Y U S H S U R Y A V A N S H I  
  
