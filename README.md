@@ -215,24 +215,5 @@
     <img src="https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI"></h3>
     </div>
     
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-    #   A Y U S H S U R Y A V A N S H I  
- #   A Y U S H S U R Y A V A N S H I  
- #   A Y U S H S U R Y A V A N S H I  
- #   A Y U S H S U R Y A V A N S H I  
- #   A Y U S H S U R Y A V A N S H I  
- #   A Y U S H S U R Y A V A N S H I  
- #   A Y U S H S U R Y A V A N S H I  
- 
-=======
-  
->>>>>>> d94cfda69c2c0a1d943fa67e897694f39d6b5bc2
-#   A Y U S H S U R Y A V A N S H I  
- #   A Y U S H S U R Y A V A N S H I  
- 
-=======
->>>>>>> af6c32318a6ecdcb05b5ddd50083d12d0d98f96c
 #   A Y U S H S U R Y A V A N S H I  
  
