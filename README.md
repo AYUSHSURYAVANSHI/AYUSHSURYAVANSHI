@@ -197,10 +197,7 @@
     <a href="https://github.com/AYUSHSURYAVANSHI"> <img align="center" width=60%
     </div>                                                    
     
-    <!-- <div align="center">
-    <img width=100% height=50px
-    src= -->
-    <!-- /> -->
+    
    
     <!-- <p align="right"> <img src=https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI alt=AYUSHSURYAVANSHI /></p> -->
     <br/>
@@ -215,5 +212,6 @@
     <img src="https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI"></h3>
     </div>
     
-#   A Y U S H S U R Y A V A N S H I  
+#   A Y U S H S U R Y A V A N S H I 
+ 
  
