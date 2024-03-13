@@ -1,8 +1,7 @@
 <div align="center">
     <img width=100% height=450px
-    src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1709769600&v=beta&t=waGPZV3_JOyDmjtA8m_ugJRDO0wrbvcKOcwSj1mYvr8"
-    
-    />
+    src=![image](https://github.com/AYUSHSURYAVANSHI/AYUSHSURYAVANSHI/assets/113771722/8aafa415-b090-4d92-9ef3-9f07f3466210)
+   />
     
     </div>
     <div align="center">
