@@ -1,6 +1,6 @@
 <div align="center">
     <img width=100% height=450px
-    src=![image](https://github.com/AYUSHSURYAVANSHI/AYUSHSURYAVANSHI/assets/113771722/8aafa415-b090-4d92-9ef3-9f07f3466210)
+    src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw2dRtZSGL9eXO817qAGIz-M&ust=1710396325183000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCkxv3I8IQDFQAAAAAdAAAAABAs"
    />
     
     </div>
