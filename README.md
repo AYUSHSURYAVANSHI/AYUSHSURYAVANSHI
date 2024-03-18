@@ -1,7 +1,6 @@
 <div align="center">
     <img width=100% height=450px
-    src= "![image](https://github.com/AYUSHSURYAVANSHI/AYUSHSURYAVANSHI/assets/113771722/a0d27763-6371-4edc-9424-1685da616b08)
-"
+    src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.micoope.com.gt%2F%3Fo%3Dportrait-animated-gif-on-behance-nn-dE7GYdsp&psig=AOvVaw3lKSa9E_gccz975QUNAaFx&ust=1710874796793000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCCv7W__oQDFQAAAAAdAAAAABAV"
    />
     
     </div>
