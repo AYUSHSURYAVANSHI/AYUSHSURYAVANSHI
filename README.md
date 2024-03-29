@@ -1,6 +1,7 @@
 <div align="center">
     <img width=100% height=450px
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3vVr6WcjqLU7VYMcUQOaoW&ust=1711774659112000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjgptbXmIUDFQAAAAAdAAAAABAE"
+    src="![image](https://github.com/AYUSHSURYAVANSHI/AYUSHSURYAVANSHI/assets/113771722/61b5963e-52ae-4e88-9872-37003ab12318)
+"
     
     />
     
