@@ -1,6 +1,8 @@
 <div align="center">
     <img width=100% height=450px
-    src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.micoope.com.gt%2F%3Fo%3Dportrait-animated-gif-on-behance-nn-dE7GYdsp&psig=AOvVaw3lKSa9E_gccz975QUNAaFx&ust=1710874796793000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCCv7W__oQDFQAAAAAdAAAAABAV"/>
+    src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1709769600&v=beta&t=waGPZV3_JOyDmjtA8m_ugJRDO0wrbvcKOcwSj1mYvr8"
+    
+    />
     
     </div>
     <div align="center">
@@ -139,6 +141,7 @@
         </a>
             <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fB9syGVCXVhJM-PN.gif" alt="" height="400" width="100%"/>
 
+                        <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat -->
         <!-- <a href="#"><img alt="Windows" src="">
         </a>
         <a href="#"><img alt="Windows" src="">
@@ -154,11 +157,10 @@
     </div>
     <br/>
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
-    
     - 👨‍💻 I’m currently working on this page.
     - 🌱 I’m currently learning more about Data Science.
     - 🕵️‍♀️ Ask me about Data Science or any tech related stuff.
-    - 📫 How to reach me: <a href="mailto:surywanshiayush@gmail.com">surywanshiayush@gmail.com</a>
+    - 📫 How to reach me: <a href="mailto:surywanshiayush@gmail.com">surywanshiayush@gmail.com
     
     <hr/>
     <div align="center">
@@ -195,7 +197,10 @@
     <a href="https://github.com/AYUSHSURYAVANSHI"> <img align="center" width=60%
     </div>                                                    
     
-    
+    <!-- <div align="center">
+    <img width=100% height=50px
+    src= -->
+    <!-- /> -->
    
     <!-- <p align="right"> <img src=https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI alt=AYUSHSURYAVANSHI /></p> -->
     <br/>
@@ -205,9 +210,11 @@
     <!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=AYUSHSURYAVANSHI)  
         
     ![](https://github.com/AYUSHSURYAVANSHI/AYUSHSURYAVANSHI/blob/main/github-contribution-grid-snake.gif) -->
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=AYUSHSURYAVANSHI&theme=dark)](https://git.io/streak-stats)
         
     <h3  align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=AYUSHSURYAVANSHI">
     <img src="https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI"></h3>
-    </div>
-    
-  
+    </div>#   A Y U S H S U R Y A V A N S H I 
+ 
+ #   A Y U S H S U R Y A V A N S H I  
+ 
