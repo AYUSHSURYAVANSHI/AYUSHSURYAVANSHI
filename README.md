@@ -1,6 +1,6 @@
 <div align="center">
     <img width=100% height=450px
-    src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1709769600&v=beta&t=waGPZV3_JOyDmjtA8m_ugJRDO0wrbvcKOcwSj1mYvr8"
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3vVr6WcjqLU7VYMcUQOaoW&ust=1711774659112000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjgptbXmIUDFQAAAAAdAAAAABAE"
     
     />
     
