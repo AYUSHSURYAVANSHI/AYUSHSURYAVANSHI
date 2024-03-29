@@ -209,8 +209,8 @@
 
     <!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=AYUSHSURYAVANSHI)  
         
-    ![](https://github.com/AYUSHSURYAVANSHI/AYUSHSURYAVANSHI/blob/main/github-contribution-grid-snake.gif) -->
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=AYUSHSURYAVANSHI&theme=dark)](https://git.io/streak-stats)
+    ![](https://github.com/AYUSHSURYAVANSHI/AYUSHSURYAVANSHI/blob/main/github-contribution-grid-snake.gif) 
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=AYUSHSURYAVANSHI&theme=dark)](https://git.io/streak-stats)-->
         
     <h3  align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=AYUSHSURYAVANSHI">
     <img src="https://komarev.com/ghpvc/?username=AYUSHSURYAVANSHI"></h3>
