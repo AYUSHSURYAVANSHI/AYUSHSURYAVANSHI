@@ -1,9 +1,11 @@
 <div align="center">
     <img width=100% height=450px
     src=![image](https://github.com/AYUSHSURYAVANSHI/AYUSHSURYAVANSHI/assets/113771722/61b5963e-52ae-4e88-9872-37003ab12318)
-
+     
     
     />
+    <img align="right" alt="CODING" width="380" height="500"
+src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
     
     </div>
     <div align="center">
