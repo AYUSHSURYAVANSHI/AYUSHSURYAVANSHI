@@ -10,7 +10,7 @@ src="https://cdn.dribbble.com/users/44433/screenshots/5957058/media/52f19d650610
      <h1>Hello World 🌏,       I'm <a href="https://linkedin.com/in/ayush-suryavanshi-b05b69228"> Ayush Suryavanshi </a></h1>
      </div>
     <!-- <img align="center" src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif" alt="" height="300" width="100%"/> -->
-    <b>A passionate Data Science Engineer and Frontend Developer 🚀 having an experience and knowledge of building Data Science and Frontend projects. I do content on development and I really enjoy learning languages</b> 
+    <b>A passionate Data Science Engineer and Machine Learning Developer 🚀 having experience and knowledge of building Data Science and Frontend projects. I do content development and I really enjoy learning languages</b> 
     <a href=" " target="_blank">
     <!--         <img align="right" alt="  " width="200" height="370"
             src=" "
